@@ -4,7 +4,7 @@
     <body>
         <referenceBlock name="logo">
             <arguments>
-                <argument name="logo_image_src" xsi:type="string">Gw_Misc/images/LubeFinderWide.svg</argument>
+                <argument name="logo_image_src" xsi:type="string">Gw_Theme/images/LubeFinderWide.svg</argument>
             </arguments>
         </referenceBlock>
     </body>
